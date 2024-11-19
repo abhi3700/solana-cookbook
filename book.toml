@@ -1,0 +1,6 @@
+[book]
+authors = ["Abhijit Roy"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Solana Cookbook"
